@@ -32,8 +32,8 @@ Last updated: 2026-10-15
 | 파일 | 내용 |
 |---|---|
 | [README.md](README.md) | 프로젝트 소개, 기본 이용 흐름, 현재 검증 범위 |
-| [docs/PROJECT.md](docs/PROJECT.md) | 프로젝트 상세 설명: 대상과 문제 상황, 기획 근거, 팀의 강점, 잠정 중단 기준 |
-| [docs/PREMORTEM.md](docs/PREMORTEM.md) | 개인별 실패 원인을 통합한 목록과 우선 대응 제안 |
-| [docs/QUESTIONS.md](docs/QUESTIONS.md) | 프로젝트 상담에서 확인할 주요 질문 |
+| [docs/PROJECT.md](PROJECT.md) | 프로젝트 상세 설명: 대상과 문제 상황, 기획 근거, 팀의 강점, 잠정 중단 기준 |
+| [docs/PREMORTEM.md](PREMORTEM.md) | 개인별 실패 원인을 통합한 목록과 우선 대응 제안 |
+| [docs/QUESTIONS.md](QUESTIONS.md) | 프로젝트 상담에서 확인할 주요 질문 |
 
 `PROJECT.md`는 제출 양식에 맞춰 한 페이지 분량으로 정리했다. 프리모템의 담당자·기한과 프로젝트의 잠정 중단 기준은 각 문서에 표시된 팀 확인 상태를 따른다.
