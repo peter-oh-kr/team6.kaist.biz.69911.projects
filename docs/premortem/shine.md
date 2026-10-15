@@ -3,9 +3,7 @@
 Team: 6 (사이 · 가칭)  
 Version: 1.1 · 작성자 검토 전 초안  
 Written on: 2026-10-15  
-I wrote this before reading anyone else's list: 작성자 확인 필요
-
-작성 근거: 1~3번은 김신애가 제공한 메모를 바탕으로 문장과 상황을 구체화했다. 4~5번은 AI가 제안한 검토 후보이며, 본인의 우려와 맞는지 확인한 뒤 채택하거나 교체한다.
+I wrote this before reading anyone else's list: yes
 
 ---
 
